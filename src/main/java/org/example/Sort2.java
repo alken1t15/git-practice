@@ -8,6 +8,7 @@ public class Sort2 {
             System.out.print(arr[i] + " ");
         }
           System.out.println(binarySearch(arr, 33));
+
     }
 
     public static void bubbleSort(int[] arr){

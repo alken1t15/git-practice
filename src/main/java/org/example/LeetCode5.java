@@ -17,4 +17,8 @@ public class LeetCode5 {
             return x * myPow(x, n - 1);
         }
     }
+
+    class fstt{
+
+    }
 }
